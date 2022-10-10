@@ -1,0 +1,5 @@
+﻿  generateData.cpp
+C:\GenData2\GenData2\generateData.cpp(58,11): warning C4566: character represented by universal-character-name '\u539F' cannot be represented in the current code page (1252)
+C:\GenData2\GenData2\generateData.cpp(58,11): warning C4566: character represented by universal-character-name '\u753B' cannot be represented in the current code page (1252)
+C:\GenData2\GenData2\generateData.cpp(58,11): warning C4566: character represented by universal-character-name '\u50CF' cannot be represented in the current code page (1252)
+  GenData2.vcxproj -> C:\GenData2\x64\Debug\GenData2.exe
